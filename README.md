@@ -10,7 +10,7 @@ Requir :
 4. Ethermine pool
 
 Step :
-1. Assembl your HW req
+1. Assemble your HW req
 2. Setup install
 
 download extract dir "HsCek"
