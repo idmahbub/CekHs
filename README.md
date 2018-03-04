@@ -1,5 +1,5 @@
 # CekHs
-Cek Hse Rate for etherum mining, auto reset machine if droping hase rate.
+Cek Hash Rate for ethereum mining rig, auto reset machine if dropping hash rate.
 
 
 HS Rate ceker, and auto restart mahine miner, ethermine pool.
