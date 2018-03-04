@@ -1,7 +1,3 @@
-# CekHs
-Cek Hse Rate for etherum mining, auto reset machine if droping hase rate.
-
-
 HS Rate ceker, and auto restart mahine miner, ethermine pool.
 Requir :
 1. Rasp Pi 3
