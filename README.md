@@ -29,4 +29,4 @@ if done, "ctrl+x"
 
 
 More info : fb,twt,ig @idmahbub
-thanks, mahbub.my.id, www.wicsolution.com
+thanks,,, www.wicsolution.com
