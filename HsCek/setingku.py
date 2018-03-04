@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-wallet = '0xed2e789f57b2478c393eac991a07906b6bd518b1'
+wallet = '0xed2e789f57b2478c'
 worker = {	'1':{'pin':'13','targeths':'89'},
 			'2':{'pin':'12','targeths':'80'},
 			'3':{'pin':'13','targeths':'80'},
